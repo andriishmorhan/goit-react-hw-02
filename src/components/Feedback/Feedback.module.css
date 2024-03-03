@@ -1,0 +1,10 @@
+.btnStyle {
+    background-color: lightgray;
+    border: 1px solid black;
+    border-radius: 7%;
+}
+
+.btnContainer {
+    display: flex;
+    gap: 5px   ;
+}
